@@ -27,4 +27,4 @@ Project structure and analysis plan completed. Dashboard and scripts will be exp
 
 ## 📊 Dashboard Preview
 
-![Finance Dashboard](finance_dashboard.png)
+![Finance Dashboard](finance-expense-analysis)
