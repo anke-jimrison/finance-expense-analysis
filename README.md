@@ -24,3 +24,7 @@ Provides clear financial insights to support better budgeting and cost control.
 
 ## Status
 Project structure and analysis plan completed. Dashboard and scripts will be expanded.
+
+## 📊 Dashboard Preview
+
+![Finance Dashboard](finance_dashboard.png)
